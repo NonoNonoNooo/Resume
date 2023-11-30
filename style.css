@@ -45,6 +45,11 @@ body {
   margin: 0 auto;
 }
 
+.link_projects {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
 /* обмежуючий контейнер */
 
 /* [class*="__container"] {
@@ -163,6 +168,8 @@ body {
 }
 .languages__title {
 }
+.hobbies_title{
+}
 .column__right {
   flex: 0 1 50%;
   padding-right: 126px;
@@ -210,8 +217,8 @@ body {
     flex: 0 1 60%;
   }
   .img_photo {
-    width: 300px;
-    height: 250px;
+    width: 360px;
+    height: 360px;
   }
 }
 
